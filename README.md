@@ -1,4 +1,4 @@
-# cleardisk_ps
+# ClearDisk PowerShel Script
 Remove temp files and users files from user profiles
 
 Удаляет все файлы из временного каталога Temp, очищает каталог скаченных обновлений,
